@@ -1,2 +1,6 @@
 # hello-world
-TGS
+
+The Great Start
+
+Why i dont sleep? its so interesting. I couldnt even imaging that
+
